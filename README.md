@@ -1,5 +1,3 @@
-ممتاز، بما أنكِ في صفحة تعديل ملف الـ README.md (كما في image_0fd923.png)، قومي بمسح كل ما هو موجود حالياً في الملف، والصقي النص التالي بدلاً منه. هذا النص مُصمم ليكون احترافياً ويشرح للدكتور كل ما قمتِ به من جهد أمني:
-
 Secure Web Application
 This project is a secure web application developed for the Secure Software Development course. It demonstrates the application of core security principles, including threat modeling, automated scanning, and robust security controls.
 
